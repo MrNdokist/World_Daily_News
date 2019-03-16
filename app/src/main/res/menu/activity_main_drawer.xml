@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_formulaire"
+            android:title="@string/nav_news" />
+    </group>
+
+    <item android:title="Extras">
+        <menu>
+            <item
+                android:id="@+id/nav_contact_us"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/send_me_a_message" />
+
+            <item
+                android:id="@+id/nav_scode"
+                android:icon="@drawable/ic_whatshot"
+                android:title="@string/get_source_code" />
+
+
+            <item
+                android:id="@+id/nav_rate_us"
+                android:icon="@drawable/ic_rate_review_black_24dp"
+                android:title="@string/noter" />
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="@string/share" />
+
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/ic_info"
+                android:title="@string/about" />
+
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">World Daily News</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="message">Informez vous en temps reel sur les dernieres actualités recentes qui font bouger le monde
+        \nWorld Daily News ,Une vue globale sur les actualités qui font bouger notre planete!
+\n\nTelecharger dès maintenant </string>
+
+    <string name="nav_news">Articles</string>
+
+    <string-array name="nav_item_activity_titles">
+        <item>Articles</item>
+        <item>Favoris</item>
+        <item>Agenda</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="more">Plus d\'applications</string>
+    <string name="action_search">Rechercher</string>
+    <string name="title_activity_detail">"Detail "</string>
+    <string name="action_share">Partager</string>
+    <string name="rate_about">EVALUEZ NOUS</string>
+    <string name="about_message">Restez toujours informer en temps réel sur les dernieres actualités qui font bouger le monde.</string>
+    <string name="dialog_quitter">Quitter</string>
+    <string name="dialog_error_title">Une erreur est survenue</string>
+    <string name="error_whatsapp">Make Sure you have WhatsApp App Installed on Your Device</string>
+    <string name="whops">Whoops</string>
+    <string name="toast_exit_message">Appuyez encore une fois pour quitter</string>
+
+    <string name="msg_offline">Aucune connexion Internet</string>
+    <string name="title_activity_favorite_detail">Detail</string>
+
+    <string name="get_source_code">Source code</string>
+    <string name="favoris">Favoris</string>
+    <string name="send_me_a_message">M\'envoyer un message</string>
+    <string name="noter">Noter</string>
+    <string name="share">Partager</string>
+    <string name="about">Apropos</string>
+    <string name="open_with_browser">Ouvrir avec</string>
+    <string name="favorite_removed">Favorite removed</string>
+</resources>

@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "336368727276",
+    "firebase_url": "https://nteam-solutions.firebaseio.com",
+    "project_id": "nteam-solutions",
+    "storage_bucket": "nteam-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336368727276:android:8af918046dfdfc5e",
+        "android_client_info": {
+          "package_name": "com.app.yourrecipesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336368727276-ro48pt7soc62d0idd9oe19hn12b2rq3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVp5UH71MjzqUAHCl52Lje3DmjhIsN3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336368727276:android:ed276fb4f7c6221b",
+        "android_client_info": {
+          "package_name": "com.mrndokist.app.worlddailynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336368727276-ka6mqaf0dshdes76ddrin6giut2d103d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrndokist.app.worlddailynews",
+            "certificate_hash": "72ab069953d0f22a6a46c531e0ac6336a6c6e464"
+          }
+        },
+        {
+          "client_id": "336368727276-ro48pt7soc62d0idd9oe19hn12b2rq3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVp5UH71MjzqUAHCl52Lje3DmjhIsN3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336368727276-ro48pt7soc62d0idd9oe19hn12b2rq3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
