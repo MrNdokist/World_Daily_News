@@ -1,6 +1,6 @@
 # World_Daily_News
 Code source de l'application android des news nommé WORLD DAILY NEWS pour permettre aux utilisateurs de rester informer sur les dernieres infos qui font bouger le monde grace a l'API NEWS API
-
+ PlayStore Link: https://play.google.com/store/apps/details?id=com.mrndokist.app.worlddailynews
 API UTLISER NEWSAPI www.newsapi.org
 
 World Daily News uililise l'API NewsApi https://newsapi.org/
